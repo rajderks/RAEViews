@@ -1,0 +1,16 @@
+PODS:
+  - RAEViews (0.1.0)
+
+DEPENDENCIES:
+  - RAEViews (from `../`)
+
+EXTERNAL SOURCES:
+  RAEViews:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RAEViews: 127b564ff73a7460275f3aacee8e768447d23d94
+
+PODFILE CHECKSUM: 0570bb492ae6cc2eb98209a983f8ccdca9509505
+
+COCOAPODS: 1.1.1

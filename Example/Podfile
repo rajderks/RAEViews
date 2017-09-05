@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RAEViews_Example' do
+  pod 'RAEViews', :path => '../'
+
+  target 'RAEViews_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

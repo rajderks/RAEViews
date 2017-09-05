@@ -1,0 +1,6 @@
+framework module RAEViews {
+  umbrella header "RAEViews-umbrella.h"
+
+  export *
+  module * { export * }
+}
